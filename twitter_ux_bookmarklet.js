@@ -1,0 +1,1 @@
+javascript:(function(){var p=document.querySelectorAll('div[data-testid=primaryColumn]')[0];p.nextSibling.remove();p.style.maxWidth='100%';p.style.margin='10px auto';p.children[0].lastElementChild.style.maxWidth='100%'})()
